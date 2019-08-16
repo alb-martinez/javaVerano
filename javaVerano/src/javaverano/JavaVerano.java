@@ -16,6 +16,12 @@ public class JavaVerano {
      */
     public static void main(String[] args) {
         System.out.println("Hola netbeans");
+        int a = 2;
+        int b = 5;
+        int c = 8;
+        double calculo;
+        calculo = 7*10-50%3*4+9;
+        System.out.println(calculo);
     }
     
 }

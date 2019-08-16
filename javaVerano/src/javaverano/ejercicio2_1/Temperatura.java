@@ -2,7 +2,7 @@
 Clase Temperatura para convertir de grados Celsius a grados Farenheit
 Utilizando 2 metodos y un metodo main
  */
-package javaverano.capitulo02;
+package javaverano.ejercicio2_1;
 
 public class Temperatura {
     

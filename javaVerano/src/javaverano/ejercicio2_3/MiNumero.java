@@ -1,3 +1,8 @@
+/*
+ * Escribe una clase llamada MiNumero que calcule el doble, el triple y
+ * el cuadruple de un numero y permita sumarlo y restarlo con otro numeros.
+*/
+
 package javaverano.ejercicio2_3;
 
 /**
